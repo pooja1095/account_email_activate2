@@ -1,5 +1,7 @@
 DRF_Reactjs_JWTAuthantication:
-Django RestFramework API with JWT Authentication Intergration with Reactjs frontend. a) DRF API Creation process steps:
+
+Django RestFramework API with JWT Authentication Intergration with Reactjs frontend.
+a) DRF API Creation process steps:
 
 Create Virtual Environment : python -m venv env_name(any name)
 Activate venv : env\Scripts\activate
